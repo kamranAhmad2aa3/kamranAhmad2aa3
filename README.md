@@ -16,10 +16,7 @@
 ## Languages and tools
 
 
-[![ic_launcher](https://user-images.githubusercontent.com/68790390/184716224-7c15d80c-8b1d-4890-a005-e2ff6934c77e.png)][3] &nbsp; &nbsp; &nbsp;
- [![visual-studio](https://user-images.githubusercontent.com/68790390/184717711-b73e23a8-0f9f-4f03-86f7-7162130bcf6d.png)][4]
-
-
+[![ic_launcher](https://user-images.githubusercontent.com/68790390/184716224-7c15d80c-8b1d-4890-a005-e2ff6934c77e.png)][3] &nbsp; &nbsp; &nbsp; [![visual-studio](https://user-images.githubusercontent.com/68790390/184718294-40d367e9-af5c-4467-9285-2113b6ac809b.png)][4]
 
 
 [1]: https://www.linkedin.com/in/kamran-ahmad-13a405182/

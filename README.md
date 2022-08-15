@@ -16,9 +16,7 @@
 ## Languages and tools
 
 
-[![ic_launcher](https://user-images.githubusercontent.com/68790390/184716224-7c15d80c-8b1d-4890-a005-e2ff6934c77e.png)][3] &nbsp; &nbsp; &nbsp;
-
-[![visual-studio](https://user-images.githubusercontent.com/68790390/184719097-68ca04a8-92ae-4f49-ac8b-61d05a8fae33.png)][4]
+[![ic_launcher](https://user-images.githubusercontent.com/68790390/184716224-7c15d80c-8b1d-4890-a005-e2ff6934c77e.png)][3] &nbsp; &nbsp; &nbsp; [![visual-studio](https://user-images.githubusercontent.com/68790390/184719097-68ca04a8-92ae-4f49-ac8b-61d05a8fae33.png)][4]
 
 
 

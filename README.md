@@ -11,8 +11,7 @@
   
 ## Connect with me
 
-![linkedin (1)](https://user-images.githubusercontent.com/68790390/184707179-43da6c6c-c540-45b8-bc02-8fc6cad306c4.png)[1]
-
+[![linkedin (1)](https://user-images.githubusercontent.com/68790390/184707179-43da6c6c-c540-45b8-bc02-8fc6cad306c4.png)][1]
 
 
 

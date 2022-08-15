@@ -10,10 +10,7 @@
   
 ## Connect with me
 
-[![linkedin](https://user-images.githubusercontent.com/68790390/184708576-2c3830d3-ae87-469b-8661-82b740b356ab.png)][1]
-
-
-[![25231](https://user-images.githubusercontent.com/68790390/184709701-7298604f-146d-4006-8a82-fabc756bda0a.png)][2]
+[![linkedin](https://user-images.githubusercontent.com/68790390/184708576-2c3830d3-ae87-469b-8661-82b740b356ab.png)][1][![25231](https://user-images.githubusercontent.com/68790390/184709701-7298604f-146d-4006-8a82-fabc756bda0a.png)][2]
 
 
 

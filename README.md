@@ -1,4 +1,4 @@
-# Hi there 👋 I'm kamran Ahmad
+# Hi there 👋 I'm Kamran Ahmad
 
 
 
@@ -11,6 +11,10 @@
 ## Connect with me
 
 [![linkedin](https://user-images.githubusercontent.com/68790390/184708576-2c3830d3-ae87-469b-8661-82b740b356ab.png)][1] &nbsp; &nbsp; &nbsp; [![25231](https://user-images.githubusercontent.com/68790390/184710199-e0f34e46-9f11-4db8-a936-2125e33bd155.png)][2]
+
+
+## Languages and tools
+
 
 
 

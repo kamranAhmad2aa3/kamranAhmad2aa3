@@ -2,7 +2,7 @@
 
 
 
-### Working On Flutter Development with a year of experience.Love to learn and explore new technologies. I worked on javascript React js , Node js , Express js , Monogo DB. Also I'm very much fimilar with Machine learning and data Science.
+### Working On Flutter with a year of experience. Love to learn and explore new technologies. I worked on javascript React js , Node js , Express js , Monogo DB. Also I'm very much fimilar with Machine learning and data Science.
  
  
 ![12](https://user-images.githubusercontent.com/68790390/184704243-77895f9e-7171-4826-aa04-cebe790a48f4.gif)
@@ -16,8 +16,12 @@
 ## Languages and tools
 
 
+[![ic_launcher](https://user-images.githubusercontent.com/68790390/184716224-7c15d80c-8b1d-4890-a005-e2ff6934c77e.png)][3]
+
+
 
 
 
 [1]: https://www.linkedin.com/in/kamran-ahmad-13a405182/
 [2]: https://github.com/kamranAhmad2aa3
+[3]: https://flutter.dev/

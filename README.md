@@ -16,16 +16,15 @@
 ## Languages and tools
 
 
- &nbsp; &nbsp; &nbsp; [![visual-studio](https://user-images.githubusercontent.com/68790390/184719097-68ca04a8-92ae-4f49-ac8b-61d05a8fae33.png)][4
+[![visual-studio](https://user-images.githubusercontent.com/68790390/184719097-68ca04a8-92ae-4f49-ac8b-61d05a8fae33.png)][4]
 
 ## Skills
-Unity3D: Extensive experience in Unity game development, including scripting, animation, and UI implementation.
-C# Programming: Proficient in C# programming language, with a focus on creating efficient and maintainable code for Unity applications.
-Game Design: Skilled in translating creative concepts into engaging gameplay mechanics and user experiences.
-VR/AR Development: Knowledgeable in virtual and augmented reality development, with hands-on experience in creating immersive environments.
-Physics and Mathematics: Strong understanding of physics and mathematics principles to implement realistic and responsive game mechanics.
-Optimization: Proven track record of optimizing game performance for various platforms, ensuring smooth and responsive user experiences.
-Version Control: Proficient in using Git for version control and collaborative development.
+### Unity3D: Extensive experience in Unity game development, including scripting, animation, and UI implementation.
+### C# Programming: Proficient in C# programming language, with a focus on creating efficient and maintainable code for Unity applications.
+### Game Design: Skilled in translating creative concepts into engaging gameplay mechanics and user experiences.
+### Physics and Mathematics: Strong understanding of physics and mathematics principles to implement realistic and responsive game mechanics.
+### Optimization: Proven track record of optimizing game performance for various platforms, ensuring smooth and responsive user experiences.
+### Version Control: Proficient in using Git for version control and collaborative development.
 
 
 

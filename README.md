@@ -29,6 +29,10 @@
 ### Physics and Mathematics: Strong understanding of physics and mathematics principles to implement realistic and responsive game mechanics.
 ### Optimization: Proven track record of optimizing game performance for various platforms, ensuring smooth and responsive user experiences.
 ### Version Control: Proficient in using Git for version control and collaborative development.
+### Successfully incorporated machine learning algorithms into applications for enhanced interactivity.
+### Proficient in utilizing machine learning models for data analysis and pattern recognition.
+### Experience in deploying and integrating machine learning models into software applications.
+### Applied machine learning techniques to optimize algorithms for improved efficiency.
 
 
 

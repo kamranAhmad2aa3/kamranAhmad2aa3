@@ -3,6 +3,10 @@
 
 
 ### Passionate Unity developer with a strong background in creating immersive and interactive experiences. Proficient in developing games and applications for various platforms, including PC and mobile. Adept at collaborating with cross-functional teams to deliver high-quality projects within deadlines. Skilled in crafting engaging and innovative user experiences.
+
+### In addition, well-versed in machine learning, with hands-on experience incorporating ML algorithms to enhance applications. Proficient in leveraging machine learning models for data analysis and pattern recognition, contributing to the creation of intelligent and adaptive features. Capable of integrating machine learning techniques to optimize game mechanics, improve user engagement, and bring a data-driven approach to application development.
+
+### Committed to continuous learning and staying updated on the latest advancements in both Unity development and machine learning technologies, ensuring the delivery of cutting-edge projects that push the boundaries of interactive experiences.
  
  
 ![12](https://user-images.githubusercontent.com/68790390/184704243-77895f9e-7171-4826-aa04-cebe790a48f4.gif)

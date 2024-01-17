@@ -1,7 +1,6 @@
 # Hi there 👋 I'm Kamran Ahmad
 
 
-
 ### Passionate Unity developer with a strong background in creating immersive and interactive experiences. Proficient in developing games and applications for various platforms, including PC and mobile. Adept at collaborating with cross-functional teams to deliver high-quality projects within deadlines. Skilled in crafting engaging and innovative user experiences.
 
 ### In addition, well-versed in machine learning, with hands-on experience incorporating ML algorithms to enhance applications. Proficient in leveraging machine learning models for data analysis and pattern recognition, contributing to the creation of intelligent and adaptive features. Capable of integrating machine learning techniques to optimize game mechanics, improve user engagement, and bring a data-driven approach to application development.
